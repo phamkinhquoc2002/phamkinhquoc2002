@@ -1,5 +1,5 @@
 ## Hi there 👋
-A data lover who's interested in building llm-powered agentic systems, analyzing data and optimizing ai products.
+A data-centric technologist who's interested in optimizing llm-powered RAG systems, building multi-agentic intelligence applications, analyzing products with data.
 _______________________________________________________________________________________________________
 
 [![Pham Kinh Quoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamkinhquoc2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
