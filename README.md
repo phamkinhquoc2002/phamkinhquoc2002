@@ -1,7 +1,10 @@
 ## Hi there 👋
-A data-centric technologist who's interested in optimizing llm-powered RAG systems, building multi-agentic intelligence applications, analyzing products with data. Currently seeking for employment opportunity in the field of Artificial Intelligence
+A data-centric technologist who's interested in optimizing llm-powered RAG systems, building multi-agentic intelligence applications, analyzing products with data. Currently seeking for employment opportunity in the field of Artificial Intelligence.
 _______________________________________________________________________________________________________
 
+🤝 I’m looking to collaborate on Machine Learning and Deep Learning projects
+
+📩 Reach me via: phamkinhquoc2002@gmail.com
 
 📑 Check out My Resume: [My Resume](https://drive.google.com/file/d/1pCOAVEgbtfZKKPtZoZTf57xtm3NVZjCx/view)
 
