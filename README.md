@@ -3,7 +3,7 @@ A data-centric technologist who's interested in optimizing llm-powered RAG syste
 _______________________________________________________________________________________________________
 
 
-📑 Check out My Resume: [![CV](https://drive.google.com/file/d/1pCOAVEgbtfZKKPtZoZTf57xtm3NVZjCx/view?usp=sharing)]
+📑 Check out My Resume: [My Resume]([URL](https://drive.google.com/file/d/1pCOAVEgbtfZKKPtZoZTf57xtm3NVZjCx/view))
 
 
 _______________________________________________________________________________________________________
