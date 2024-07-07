@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 📩 Reach me via: phamkinhquoc2002@gmail.com
 
-📑 Check out My Resume: [My Resume](https://drive.google.com/file/d/1pCOAVEgbtfZKKPtZoZTf57xtm3NVZjCx/view)
+📑 Check out My Resume: [My Resume](https://drive.google.com/file/d/1IRIEoBRAktnR8yU1PQs9q4aji9_diPMP/view?usp=sharing)
 
 _______________________________________________________________________________________________________
 
