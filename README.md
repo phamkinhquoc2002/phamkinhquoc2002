@@ -25,7 +25,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________
 [![Pham Kinh Quoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamkinhquoc2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=dive-into-dl&show_icons=true&theme=radical)](https://github.com/phamkinhquoc2002/dive_into_deep_learning)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=rag-best-strategy&show_icons=true&theme=radical)](https://github.com/phamkinhquoc2002/rag-best-strategy)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=adaptive-rag-matryoshka&show_icons=true&theme=radical)](https://github.com/phamkinhquoc2002/adaptive-rag-matryoshka)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi-agents-validator&show_icons=true&theme=radical)](https://github.com/phamkinhquoc2002/Ragification)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=florence2-football-analysis&show_icons=true&theme=radical)](https://github.com/phamkinhquoc2002/florence2-football-analysis)
