@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Pham Kinh Quoc 👋
 
-A data-centric technologist who's interested in optimizing llm-powered systems, building multi-agentic intelligence applications, analyzing products with the help of AI. Currently seeking for employment opportunity in the field of Artificial Intelligence.
+A data-centric technologist who's interested in optimizing llm-powered systems, building multi-agentic intelligence applications, training large-language models.
 _______________________________________________________________________________________________________
 
 
