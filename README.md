@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 📩 Reach me via: phamkinhquoc2002@gmail.com
 
-📑 Check out My Resume: [My Resume](https://www.overleaf.com/project/65f2fe2466de032352c8f507)
+📑 Check out My Resume: [My Resume](https://google.com)
 
 _______________________________________________________________________________________________________
 
