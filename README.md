@@ -21,8 +21,16 @@ ________________________________________________________________________________
 
 ### ☁️ <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" /><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" />
 _______________________________________________________________________________________________________
-[![Pham Kinh Quoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamkinhquoc2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats (Styled with github-profile-summary-cards)
+
+![](https://raw.githubusercontent.com/phamkinhquoc2002/phamkinhquoc2002/profile-summary-card-output/radical/0-profile-details.svg)
+![](https://raw.githubusercontent.com/phamkinhquoc2002/phamkinhquoc2002/profile-summary-card-output/radical/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/phamkinhquoc2002/phamkinhquoc2002/profile-summary-card-output/radical/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/phamkinhquoc2002/phamkinhquoc2002/profile-summary-card-output/radical/3-stats.svg)
+![](https://raw.githubusercontent.com/phamkinhquoc2002/phamkinhquoc2002/profile-summary-card-output/radical/4-productive-time.svg)
+
 _______________________________________________________________________________________________________
+
 <a href="https://github.com/phamkinhquoc2002/dataforge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi_gpu_dpo&theme=radical&layout=compact" />
 </a>
