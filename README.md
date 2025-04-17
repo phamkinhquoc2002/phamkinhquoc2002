@@ -1,5 +1,3 @@
-# Hi there, I'm Pham Kinh Quoc 👋
-
 A data-centric technologist who's interested in optimizing llm-powered systems, building multi-agentic intelligence applications, training large-language models. Specialized in MLops, Data Engineering and LLMs.
 
 📩 Reach me via: phamkinhquoc2002@gmail.com
