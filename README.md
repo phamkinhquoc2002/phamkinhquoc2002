@@ -23,6 +23,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________
 ## 📊 GitHub Stats 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamkinhquoc2002&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phamkinhquoc2002&theme=aura_dark&utcOffset=8)
 
 <a href="https://github.com/phamkinhquoc2002/dataforge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi_gpu_dpo&theme=radical&layout=compact" />
