@@ -1,4 +1,4 @@
-A data-centric technologist who's interested in optimizing llm-powered systems, building multi-agentic intelligence applications, training large-language models. Specialized in MLops, Data Engineering and LLMs.
+_A learner of LLM-powered system optimization and building multi-agent intelligence framework._
 
 📩 Reach me via: phamkinhquoc2002@gmail.com
 
