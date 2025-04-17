@@ -3,6 +3,7 @@
 A data-centric technologist who's interested in optimizing llm-powered systems, building multi-agentic intelligence applications, training large-language models. Specialized in MLops, Data Engineering and LLMs.
 
 📩 Reach me via: phamkinhquoc2002@gmail.com
+
 📑 Check out My Resume: [My Resume](https://drive.google.com/file/d/1lQlGtbib_Zz1erS-KcBmlFw7wzgIKBzc/view?usp=sharing)
 
 ## 📊 GitHub Stats 
