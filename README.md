@@ -1,10 +1,11 @@
 _A learner of LLM-powered system optimization and building multi-agent intelligence framework._
 
-📩 Reach me via: phamkinhquoc2002@gmail.com
+## 📬 Contact
+- 📩 Reach me via: **phamkinhquoc2002@gmail.com**
 
-📑 Check out My Resume: [My Resume](https://drive.google.com/file/d/1lQlGtbib_Zz1erS-KcBmlFw7wzgIKBzc/view?usp=sharing)
+- 📑 Check out My Resume: [My Resume](https://drive.google.com/file/d/1lQlGtbib_Zz1erS-KcBmlFw7wzgIKBzc/view?usp=sharing)
 
-## 📊 GitHub Stats 
+## 📊 Activities
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamkinhquoc2002&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phamkinhquoc2002&theme=aura_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamkinhquoc2002&theme=aura_dark)
