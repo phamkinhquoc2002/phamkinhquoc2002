@@ -23,6 +23,18 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________
 [![Pham Kinh Quoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamkinhquoc2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 _______________________________________________________________________________________________________
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi_gpu_dpo&show_icons=true&theme=radical)](https://github.com/phamkinhquoc2002/dataforge)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi-agents-validator&show_icons=true&theme=radical)](https://github.com/phamkinhquoc2002/Ragification)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/phamkinhquoc2002/dataforge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi_gpu_dpo&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/phamkinhquoc2002/Ragification">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi-agents-validator&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
