@@ -22,7 +22,6 @@ ________________________________________________________________________________
 ### ☁️ <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" /><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" />
 _______________________________________________________________________________________________________
 [![Pham Kinh Quoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamkinhquoc2002&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi_gpu_dpo&show_icons=true&theme=radical)](https://github.com/phamkinhquoc2002/multi_gpu_dpo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi_gpu_dpo&show_icons=true&theme=radical)](https://github.com/phamkinhquoc2002/dataforge)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi-agents-validator&show_icons=true&theme=radical)](https://github.com/phamkinhquoc2002/Ragification)
 
