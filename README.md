@@ -27,12 +27,12 @@ ________________________________________________________________________________
   <tr>
     <td>
       <a href="https://github.com/phamkinhquoc2002/dataforge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi_gpu_dpo&theme=radical" />
+        <img  width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi_gpu_dpo&theme=radical" />
       </a>
     </td>
     <td>
       <a href="https://github.com/phamkinhquoc2002/Ragification">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi-agents-validator&theme=radical" />
+        <img  width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=phamkinhquoc2002&repo=multi-agents-validator&theme=radical" />
       </a>
     </td>
   </tr>
